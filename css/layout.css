@@ -30,6 +30,5 @@
 .shoes-on-grass {
   float: left;
   width: 70.00%;
-  border: 0;
-  padding:0;
+  border: solid;
 }
