@@ -25,8 +25,9 @@
 /* Posititoning Classes */
 .calendar{
   float: right;
-  width: 25.00%
+  width: 25.00%;
 }
 .shoes-on-grass {
   float: left;
+  width: 75%;
 }
