@@ -38,12 +38,14 @@
 .heel {
   float: right;
   width: 30.33%;
+  border: solid hidden;
 }
 
 .skate {
-  float:left;
+  float: left;
   width: 30.33%;
   border: solid hidden;
+  
 }
 
 .bug {
