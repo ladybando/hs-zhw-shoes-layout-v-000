@@ -35,3 +35,7 @@
   border: solid hidden;
   margin-right: 20px;
 }
+.heel {
+  float: right;
+  width: 33.33%;
+}
