@@ -55,3 +55,7 @@
   float: right;
   width: 33.33%;
 }
+.border_right h3{
+  float: left;
+  width: 33.33%;
+}
