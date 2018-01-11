@@ -26,6 +26,9 @@
 .shadow {
   float: right;
 }
-.shadow img{
+.shadow img {
   float: left;
+  height: 100px;
+  width: 200px;
+  
 }
