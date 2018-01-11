@@ -51,3 +51,6 @@
   border: solid hidden;
   margin: 1%;
 }
+.border-right {
+  float: right;
+}
