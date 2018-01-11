@@ -26,6 +26,7 @@
 .calendar{
   float: right;
   width: 20.00%;
+  border: solid;
 }
 .shoes-on-grass {
   float: left;
