@@ -27,13 +27,13 @@
   float: right;
   width: 20.00%;
   border: solid;
-  padding-left: 10px;
+  margin: 1%;
 }
 .shoes-on-grass {
   float: left;
-  width: 70.00%;
+  width: 60.00%;
   border: solid hidden;
-  margin-right: 20px;
+  margin: 1%;
 }
 .heel {
   float: right;
