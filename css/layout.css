@@ -25,7 +25,8 @@
 /* Posititoning Classes */
 .shadow h2{
   float: right;
+  width: 49.99%
 }
-.shadow img {
+.shadow {
   float: left;
 }
